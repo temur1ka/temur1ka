@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **temometreveli60@gmail.com**
 
-- 📄 Know about my experiences [I have Experience for 2-3 years, I know Front-End Development, Back-End Development, had touch to a Mobile Development and Game Development(C# Unity)](I have Experience for 2-3 years, I know Front-End Development, Back-End Development, had touch to a Mobile Development and Game Development(C# Unity))
+- 📄 Know about my experiences I have Experience for 2-3 years, I know Front-End Development, Back-End Development, had touch to a Mobile Development and Game Development(C# Unity)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
