@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Full Stack Project**
 
-- 🌱 I’m currently learning **NuxtJs**
+- 🌱 I’m currently learning **Deep in Software Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/temur1ka?tab=repositories](https://github.com/temur1ka?tab=repositories)
 
