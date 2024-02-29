@@ -1,6 +1,4 @@
-<div align="center">
-<img src="https://github.com/temur1ka?tab=repositories" align="center" style="width: 100%" />
-</div>  
+
   
 
 ### <div align="center">Hi 👋, I'm Temo, A FullStack Developer From Republic Of Geogia</div>  
